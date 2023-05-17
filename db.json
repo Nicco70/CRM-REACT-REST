@@ -1,0 +1,50 @@
+{
+  "clientes": [
+    {
+      "nombre": "Karen",
+      "empresa": "Personal",
+      "email": "karen_nuevo@gmail.com",
+      "telefono": "12444312",
+      "notas": "Karen desea undfasf",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@hotmail.com",
+      "empresa": "Movistar"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Telecom"
+    },
+    {
+      "nombre": "Juan Desde React",
+      "empresa": "Fibertel",
+      "email": "correo@correo.com",
+      "telefono": "1090142342",
+      "notas": "El Cliente desea un ecommerce",
+      "id": 6
+    },
+    {
+      "nombre": "Nicolas",
+      "empresa": "Astra",
+      "email": "niqqogf@gmail.com",
+      "telefono": "1234444123",
+      "notas": "Requiere un Blog",
+      "id": 7
+    },
+    {
+      "nombre": "Rodolfo",
+      "empresa": "Procul",
+      "email": "rodolfo.dog@gmail.com",
+      "telefono": "1123452345",
+      "notas": "Notas",
+      "id": 8
+    }
+  ]
+}
